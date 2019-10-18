@@ -1,5 +1,5 @@
 # lawrence wang
 
-[blog](http://law-wang.github.io)
+[blog](http://)
 
-[portfolio](http://law-wang.com)
+[portfolio](http://work.rencewang.com)
