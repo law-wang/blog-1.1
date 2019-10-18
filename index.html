@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,8 +15,25 @@
     <!--<link rel="shortcut icon" href="favicon.png">/-->
     <meta name="viewport" content="width=device-width, initial-scale=1">    
     <link rel="stylesheet" href="./assets/styles/main.css">
-    
 </head>
 
-<p> welcom </p>
+  <section>
+  <h1>Featured Posts</h1>
+  <div>
+	{% for post in site.tags['Featured'] %}
+		<ul>
+			<li>
+				<div class="post-date code">
+					<span>{{ post.date | date: "%b %d %Y" }}</span>
+				</div>
+				<div class="title">
+					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+				</div>
+			</li>
+		</ul>
+       {% endfor %}
+  </div>
+</section>
+  
+<p>welcom</p>
 </html>
