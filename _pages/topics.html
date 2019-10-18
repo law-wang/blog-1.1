@@ -1,0 +1,32 @@
+---
+layout: default
+title:  Topics
+permalink: /topics/
+---
+<section>
+  <div class="tag-list">
+    {% for cat in site.categories %}
+      <div class="tag-group">
+        {% capture cat_name %}{{ cat | first }}{% endcapture %}
+        <h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>
+          {% for post in site.categories[cat_name] %}
+		<!--
+	    <article class="tag-item">
+	      <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
+	    </article>
+		/-->
+		<ul>
+			<li>
+				<div class="post-date code">
+					<span>{{ post.date | date: "%b %d %Y" }}</span>
+				</div>
+				<div class="title">
+					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+				</div>
+			</li>
+		</ul>
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+</section>
