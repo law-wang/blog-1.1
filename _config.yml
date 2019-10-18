@@ -1,0 +1,45 @@
+# Site Info
+title:              "LW"
+description:        "a personal blog"
+author_name:        "Lawrence Wang" # change this to your name
+logo_url:           https://static1.squarespace.com/static/5b39c0cb7c93273d7754f5cd/5b3a6c496d2a73a47230cd03/5c5d133d104c7b465a6100b0/1549603646573/lw-logo.png?format=500w # Get it from GitHub API: https://api.github.com/users/<username>
+
+# Site Settings
+url:                https://law-wang.github.io # main url
+baseurl:            
+permalink:          /:title # Post permalink
+timezone:           US/Pacific # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-sitemap
+
+
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"

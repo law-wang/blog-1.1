@@ -3,23 +3,7 @@ layout: default
 permalink: /
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>rence's blog</title>
-    
-    <meta name="author" content="Rence Wang">
-    <!--<link rel="shortcut icon" href="favicon.png">/-->
-    <meta name="viewport" content="width=device-width, initial-scale=1">    
-    <link rel="stylesheet" href="./assets/styles/main.css">
-</head>
-
-	<p>this blog's under construction but welcome</p>
-	
-  <section>
+<section>
   <h1>Featured Posts</h1>
   <div>
 	{% for post in site.tags['Featured'] %}
@@ -36,6 +20,3 @@ permalink: /
        {% endfor %}
   </div>
 </section>
-  
-
-</html>
