@@ -1,7 +1,7 @@
 # Site Info
-title:              "LW"
-description:        "a personal blog"
-author_name:        "Lawrence Wang" # change this to your name
+title:              "rence's log"
+description:        "a blog"
+author_name:        "Rence Wang" # change this to your name
 logo_url:           https://static1.squarespace.com/static/5b39c0cb7c93273d7754f5cd/5b3a6c496d2a73a47230cd03/5c5d133d104c7b465a6100b0/1549603646573/lw-logo.png?format=500w # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
