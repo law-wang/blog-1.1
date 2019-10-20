@@ -92,25 +92,17 @@ blockquote {
   background: #707070;
 }
 .logo {
-  //display: block;
-  //margin-left: auto;
-  //margin-right: auto;
-  //width: 60%;
-  //position: relative;
-  //margin: 0 auto 35px;
   text-align: center;
   a {
     background: #2e2e2e;
     color: #2e2e2e;
     text-decoration: none;
     font-weight: 700;
-    //height: 300px;
     width: 300px;
     font-size: 1.5em;
     border-radius: 100%;
     display: inline-block;
     text-align: center;
-    //ine-height: 100px;
     border: 5px solid #2e2e2e;
     box-sizing: border-box;
     &:focus {
@@ -343,9 +335,6 @@ section {
       margin: 25px 0;
       .title {
         max-width: 100%;
-        //overflow: hidden !important;
-        //text-overflow: ellipsis !important;
-        //white-space: nowrap !important;
         word-wrap: normal !important;
       }
       a {
