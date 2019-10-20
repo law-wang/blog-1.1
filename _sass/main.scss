@@ -99,12 +99,6 @@ blockquote {
   //position: relative;
   //margin: 0 auto 35px;
   text-align: center;
-  //animation-duration: 1.0s;
-  //animation-fill-mode: both;
-  //animation-name: bounce;
-  //-webkit-animation-duration: 1.0s;
-  //-webkit-animation-fill-mode: both;
-  //-webkit-animation-name: bounce;
   a {
     background: #2e2e2e;
     color: #2e2e2e;
@@ -126,44 +120,11 @@ blockquote {
     &:focus + .logo-prompt {
       display: inline-block !important;
     }
-    .logo-avatar {
-      //box-shadow: 0 1px 3px rgb(46, 46, 46);
-      //-webkit-border-radius: 50%;
-      //-moz-border-radius: 50%;
-      //border-radius: 50%;
-    }
     @media (max-width : 480px) {
       &:hover + .logo-prompt,
       &:focus + .logo-prompt {
         display: none !important;
       }
-    }
-  }
-  .logo-prompt {
-    position: absolute;
-    display: none;
-    vertical-align: middle;
-    padding: 5px;
-    border-radius: 3px;
-    background: #2e2e2e;
-    background: rgba(46,46,46,.5);
-    margin-left: 15px;
-    color: #2e2e2e;
-    font-size: 0.8235em;
-    text-align: center;
-    line-height: 1.2;
-    top: 50%;
-    margin-top: -10px;
-    &:before {
-      content: "";
-      border-width: 5px 5px 5px 0;
-      border-style: solid;
-      border-color: transparent #2e2e2e;
-      border-color: transparent rgba(46,46,46,.5);
-      position: absolute;
-      top: 50%;
-      left: -5px;
-      margin-top: -5px;
     }
   }
 }
@@ -263,6 +224,7 @@ table {
 iframe {
   width: 100%;
 }
+
 article {
   max-width: 500px;
   margin: 0 auto 50px auto;
