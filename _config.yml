@@ -4,7 +4,7 @@ description:        "a blog"
 author_name:        "Lawrence Wang" # change this to your name
 logo_url:           https://images.squarespace-cdn.com/content/5b39c0cb7c93273d7754f5cd/1532756167452-42P31FHET7OEXKMRZGN7/LW2mod1.png?content-type=image%2Fpng
 # Site Settings
-url:                https://law-wang.github.io # main url
+url:                https://blog.rencewang.com # main url
 baseurl:            
 permalink:          /:title # Post permalink
 timezone:           US/Pacific # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
