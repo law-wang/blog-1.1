@@ -6,7 +6,7 @@ category: Entertainment
 tag: [Netflix, TV, Featured]
 ---
 
-![Cover](/assets/RussianDoll_header.jpg)
+![Cover](/assets/images/RussianDoll_header.jpg)
 
 You would think that after an entire school year of Nietzsche, Meursault, Godot, Kafka, Hemingway, and _Like Water for Chocolate_ in International Baccalaureate English would be enough absurdist discussion for a while, if not an entire lifetime. But _Russian Doll_, the extremely odd, extremely beautiful, and extremely thought-provoking delight, proved to be just that piece of existentialist art I never knew I needed.
 
@@ -30,7 +30,7 @@ Perhaps that’s her defense mechanism, of closing herself off from the world, t
 
 <div class="divider"></div>
 
-![Cover](http://blog.law-wang.com/assets/screencapture-netflix-watch-80212136-2019-02-09-23_21_40.jpg)
+![Cover](/assets/images/russiandoll2.jpg)
 
 ## The Ending
 
