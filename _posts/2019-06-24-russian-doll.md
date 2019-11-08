@@ -8,7 +8,7 @@ tag: [Netflix, TV, Featured]
 
 ![Cover](/assets/images/RussianDoll_header.jpg)
 
-You would think that after an entire school year of Nietzsche, Meursault, Godot, Kafka, Hemingway, and _Like Water for Chocolate_ in International Baccalaureate English would be enough absurdist discussion for a while, if not an entire lifetime. But _Russian Doll_, the extremely odd, extremely beautiful, and extremely thought-provoking delight, proved to be just that piece of existentialist art I never knew I needed.
+You would think that after an entire school year of Nietzsche, Meursault, Godot, Kafka, Hemingway, and _Like Water for Chocolate_ in International Baccalaureate English would be enough absurdist discussion for a while, if not an entire lifetime. But _Russian Doll_, the extremely odd, extremely beautiful, and extremely thought-provoking delight, proved to be just that piece of existentialism I never knew I needed.
 
 The sheer brilliance in the editing and cinematography is just the least of it: the message is what I find to be the most interesting. Particularly, the message that “it’s too easy to die that it’s hard to stay alive.”
 
@@ -16,7 +16,7 @@ The series is deeply absurd, with the protagonist running into death in the most
 
 <div class="divider"></div>
 
-## The Story
+## Nadia's Dilemma
 
 Time passes by linearly throughout the show, but the main character, Nadia, is stuck on the night of her birthday party — the recycled moments of her waking up in front of the bathroom mirror is a diametric symbol of death and rebirth. Nadia and the other protagonist, Alan, theorized that the seemingly eternal time-loop is a punishment for their mistakes during their childhood. Nadia wanted to leave her mother, and attributed her mother’s death to her own fault, after which she decided to push other people away to avoid any possibility of genuine connection that might end up hurting both parties.
 
@@ -32,12 +32,12 @@ Perhaps that’s her defense mechanism, of closing herself off from the world, t
 
 ![Cover](/assets/images/russiandoll2.jpg)
 
-## The Ending
+## It Is Not The End
 
-The ending is one of the best moments in television in 2019. It has a quality that is as calming and promising as _Groundhog Day_, but it’s not quite _Groundhog Day_. The two protagonists reappear in front of their bathroom mirrors one last time and realize they are in different dimensions — the other person is back in cycle #1 and has no recollection of the death-defying adventures they shared together. Now, they have to look for the other person and convince them that all those hundreds of attempts at living and dying were actually real. As the screen splits in half, the audience witnesses a hopeful Allen assisting the turbulent Nadia, and a patient Nadia comforting the confused Allen. And as they walk through the winter New York streets, the two screens merge into one, with a renewed Nadia holding a torch, finally, again, pushing to be a part of this world.
+The ending is a beautiful moment. It has a quality that is as promising as _Groundhog Day_, but not quite _Groundhog Day_. The two protagonists reappear in front of their bathroom mirrors one last time and realize they are in different dimensions — the other person is back in cycle #1 and has no recollection of the death-defying adventures they shared together. Now, they have to look for the other person and convince them that all those hundreds of attempts at living and dying were actually real. As the screen splits in half, the audience witnesses a hopeful Allen assisting the turbulent Nadia, and a patient Nadia comforting the confused Allen. And as they walk through the winter New York streets, the two screens merge into one, with a renewed Nadia holding a torch, finally, again, pushing to be a part of this world.
 
 Sometimes, the mediocrity of daily chores and the pressures from expectations can make life feel like hell, like purgatory on earth. Sometimes, the anxiety of being alive strikes blows to us that seem impossible to handle. But as _Russian Doll_ reminds us, **we are not alone in this world**. We still have each other, can find each other, and save each other. Just like in the ending when Nadia and Alan march, joining Horse’s parade of monsters, passing the shoulders of their alternative selves — _they have not given up on each other_. 
 
-The world out there can be a vile one. A lonely one. A troubled one. One in which it’s hard to stay alive. But if we can all dig into our hearts, understand who we are, and learn to forgive and reconcile, maybe we can also let go of the cold, exoskeletal shells of protective covers; let go of the habit of keeping people at a distance; let go of the need to hide our insecurities and conceal our mistakes. In doing so, perhaps we might rediscover the fine world that is worth fighting for.
+The world out there can be a vile one. A lonely one. A troubled one. One in which it’s hard to stay alive. But if we can all dig into our hearts, see ourselves for who we are, and learn to forgive and reconcile, maybe we can also let go of the cold, exoskeletal shells of protective covers; let go of the habit of keeping people at a distance; let go of the need to hide our insecurities and conceal our mistakes. In doing so, perhaps we might rediscover the fine world that is worth fighting for.
 
 May this newfound hope and companionship in _Russian Doll_ mean that the past moments of “I just want to die” are not the end. 
