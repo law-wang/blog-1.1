@@ -41,6 +41,7 @@ h1 {
 	font-weight: 700;
 	font-style: normal;
   font-size: 2rem;
+  color: #f47b3e;
 }
 h2 {
   margin-top: 1rem;
@@ -52,12 +53,14 @@ h3 {
 	font-style: normal;
   margin-top: 1.5rem;
   font-size: 1.25rem;
+  color: #f47b3e;
 }
 h4,
 h5 {
   font-family: "rig-solid-bold-fill", sans-serif;
   font-weight: 700;
   font-style: normal;
+  color: #f47b3e;
 }
 h6 {
     margin-top: 1.1rem;
@@ -181,7 +184,9 @@ time {
 }
 code,
 pre,
-.code,
+.code {
+  font-family: "rig-solid-bold-fill", sans-serif;
+}
 .footnotes {
   font-family: Consolas, monaco, monospace;
 }
@@ -289,7 +294,8 @@ article {
     }
   }
   a:hover {
-    color: #555;
+    /*color: #555;*/
+    color: #f47b3e;
     border-color: #555;
   }
 }
@@ -310,6 +316,11 @@ article {
 }
 .block {
   display: block;
+}
+.nav {
+  font-family: "nimbus-sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 .page-navigation,
 .footer {
