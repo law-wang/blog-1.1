@@ -1,4 +1,6 @@
 @import url("https://use.typekit.net/xbv3jvp.css");
+@import url(//db.onlinewebfonts.com/c/41c6bd279ad80d8cf68d230261308af9?family=Copyright+Klim+Type+Foundry);
+@import url("https://use.typekit.net/xbv3jvp.css");
 
 * {
   -webkit-box-sizing: border-box;
@@ -33,9 +35,9 @@ body {
 }
 
 h1 {
-  font-family: "rig-solid-bold-fill", sans-serif;
-	font-weight: 700;
-	font-style: normal;
+  font-family: franklin-gothic-urw, sans-serif;
+  font-weight: 300;
+  font-style: normal;
   font-size: 2rem;
   color: #000;
 }
@@ -44,17 +46,17 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
-  font-family: "rig-solid-bold-fill", sans-serif;
-	font-weight: 700;
-	font-style: normal;
+  font-family: franklin-gothic-urw, sans-serif;
+  font-weight: 300;
+  font-style: normal;
   margin-top: 1.5rem;
   font-size: 1.25rem;
   color: #000;
 }
 h4,
 h5 {
-  font-family: "rig-solid-bold-fill", sans-serif;
-  font-weight: 700;
+  font-family: franklin-gothic-urw, sans-serif;
+  font-weight: 300;
   font-style: normal;
   color: #000;
 }
@@ -181,7 +183,7 @@ time {
 code,
 pre,
 .code-year {
-  font-family: "rig-solid-bold-fill", sans-serif;
+  font-family: Consolas, monaco, monospace;
 }
 .code,
 .footnotes {
@@ -235,7 +237,9 @@ article {
   max-width: 500px;
   margin: 0 auto 50px auto;
   h1.title {
-    font-family: Helvetica;
+    font-family: franklin-gothic-urw, sans-serif;
+    font-weight: 300;
+    font-style: normal;
     line-height: 1.4em;
     text-align: center;
     font-size: 2em;
@@ -243,7 +247,7 @@ article {
   }
   .divider {
     background: #000;
-    background: -webkit-gradient(linear,left top,right top,from(rgba(221,221,221,0)),color-stop(#ccc),to(rgba(221,221,221,0)));
+    background: -webkit-gradient(linear,left top,right top,from(rgba(221,221,221,0)),color-stop(#0d0d0d),to(rgba(221,221,221,0)));
     background: -webkit-linear-gradient(left,rgba(221,221,221,0),#ccc,rgba(221,221,221,0));
     background: linear-gradient(to right,rgba(221,221,221,0),#ccc,rgba(221,221,221,0));
     height: 1px;
@@ -328,7 +332,7 @@ article {
   font-size: 0.8rem;
 }
 .page-navigation {
-  margin: 50px auto 0 auto;
+  margin: 50px auto 50px auto;
   a {
     display: inline-block;
     text-decoration: none;
