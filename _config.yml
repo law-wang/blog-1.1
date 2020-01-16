@@ -2,7 +2,7 @@
 title:              "rence"
 description:        "a blog"
 author_name:        "Lawrence Wang" # change this to your name
-logo_url:           https://images.squarespace-cdn.com/content/5b39c0cb7c93273d7754f5cd/1532756167452-42P31FHET7OEXKMRZGN7/LW2mod1.png?content-type=image%2Fpng
+logo_url:           "/assets/LW2mod2.png"
 # Site Settings
 url:                https://law-wang.github.io # main url
 baseurl:            
