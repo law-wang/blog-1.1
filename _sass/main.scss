@@ -17,7 +17,6 @@ body {
   font-size: 14px;
   line-height: 20px;
   font-style: normal;
-  /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
   font-family: "Helvetica Neue", serif;
 	font-weight: 500;
   color: #000;
@@ -32,6 +31,7 @@ body {
   }
 }
 
+/* Font Settings */
 h1 {
   font-family: franklin-gothic-urw, sans-serif;
   font-weight: 300;
@@ -71,6 +71,7 @@ h6 {
 img {
   max-width: 100%;
 }
+
 /* For Links */
 a {
   color: inherit;
