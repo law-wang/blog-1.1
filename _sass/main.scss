@@ -17,7 +17,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   font-style: normal;
-  font-family: "Helvetica Neue", "Helvetica", "Franklin Gothic", "Arial", sans-serif; 
+  font-family: "Helvetica Neue", "Helvetica", "Franklin Gothic", "Arial", sans-serif;
 	font-weight: 500;
   color: #000;
   background-color: #f8f8f8;
@@ -100,7 +100,6 @@ a.nounderline {
         transition: .5s;
       }
 }
-
 mark {
   //background: #e7bd74;
   background: #aaa;
@@ -112,6 +111,7 @@ blockquote {
   padding: 5px 30px;
   background: #d9d9d9;
 }
+
 .logo {
   text-align: center;
   a {
@@ -144,6 +144,7 @@ blockquote {
 iframe {
   margin: 45px 0 !important;
 }
+
 ul {
   li {
       margin: 25px 0;
