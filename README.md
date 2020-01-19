@@ -2,4 +2,4 @@
 
 [blog](http://blog.rencewang.com)
 
-[portfolio](http://work.rencewang.com)
+[portfolio](http://www.lawrencewang.myportfolio.com)
