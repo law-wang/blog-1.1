@@ -398,13 +398,16 @@ section {
 }
 
 /* For Home Page Display */
+#blog {
+  padding-bottom: 7%;
+}
 .threecolumns {
 	float: right;
 	width: 50%;
 	font-family: "whitman-display", serif;
 	font-weight: 500;
 	font-style: italic;
-	font-size: 18px;
+	font-size: 15px;
 }
 .threecolumns h2 {
 	font-family: franklin-gothic-urw, "Helvetica Neue", "Helvetica", "Franklin Gothic", "Arial", sans-serif;
@@ -415,7 +418,9 @@ section {
 	margin-top: 0;
 	margin-left: 0;
 	margin-right: auto;
+  padding-bottom: 10px;
 	width: 90%;
+  text-align: justify;
 }
 .blogpost quoteblock {
 	font-family: "whitman-display", serif;
