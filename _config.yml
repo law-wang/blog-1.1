@@ -4,7 +4,7 @@ description:        "a blog"
 author_name:        "Lawrence Wang" # change this to your name
 logo_url:           "/assets/LW2mod3.png"
 # Site Settings
-url:                https://law-wang.github.io # main url
+url:                https://law-wang.github.io/blog # main url
 baseurl:            
 permalink:          /:title # Post permalink
 timezone:           US/Pacific # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
