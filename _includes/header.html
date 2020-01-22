@@ -1,10 +1,10 @@
 <aside class="logo">
 		{% if page.url == '/index.html' or page.url == '/' %}
-			{% assign link = '/about' %}
+			{% assign link = 'https://www.rencewang.com' %}
 		{% else %}
-			{% assign link = '/' %}
+			{% assign link = 'https://blog.rencewang.com' %}
 		{% endif %}
-		<a href="{{ link | prepend: site.baseurl | prepend: site.url }}">
+		<a href="{{ link }}">
 		<img src="{{ site.logo_url }}">
 		</a>
 </aside>
