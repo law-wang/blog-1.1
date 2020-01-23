@@ -14,8 +14,7 @@ html {
 
 body {
   width: 100%;
-  padding: 20px;
-  padding-top: 90px;
+  padding-top: 10%;
   margin: 0;
   font-family: nimbus-sans, "Helvetica Neue", "Helvetica", "Franklin Gothic", "Arial", sans-serif;
     font-style: normal;
@@ -119,7 +118,7 @@ blockquote {
     color: #f8f8f8;
     text-decoration: none;
     font-weight: 700;
-    width: 300px;
+    width: 55%;
     font-size: 1.5em;
     border-radius: 100%;
     display: inline-block;
@@ -138,6 +137,9 @@ blockquote {
       &:focus + .logo-prompt {
         display: none !important;
       }
+    }
+    @media (max-width : 700px) {
+      width: 300px;
     }
   }
 }
