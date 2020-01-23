@@ -14,16 +14,17 @@ html {
 
 body {
   width: 100%;
-  font-size: 14px;
-  line-height: 20px;
-  font-style: normal;
-  font-family: nimbus-sans, "Helvetica Neue", "Helvetica", "Franklin Gothic", "Arial", sans-serif;
-	font-weight: 500;
-  color: #000;
-  background-color: #f8f8f8;
   padding: 20px;
   padding-top: 90px;
   margin: 0;
+  font-family: nimbus-sans, "Helvetica Neue", "Helvetica", "Franklin Gothic", "Arial", sans-serif;
+    font-style: normal;
+	   font-weight: 500;
+     color: #000;
+     font-size: 14px;
+     line-height: 20px;
+  background-color: #f8f8f8;
+  cursor: help;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
 }
@@ -86,6 +87,9 @@ a {
     border-radius: 5px;
     margin: 30px 0;
   }
+  &:hover {
+    cursor: help;
+  }
 }
 a.nounderline {
       text-decoration: none!important;
@@ -93,6 +97,7 @@ a.nounderline {
         color: #999;
         //border: 1px solid rgb(231, 189, 116);
         transition: .5s;
+        cursor: help;
       }
 }
 mark {
@@ -156,6 +161,7 @@ ul {
           color: #999;
           //border: 1px solid rgb(231, 189, 116);
           transition: .5s;
+          cursor: help;
         }
       }
       @media (min-width: 992px) {
@@ -301,6 +307,7 @@ article {
     /*color: #555;*/
     color: #f47b3e;
     border-color: #555;
+    cursor: help;
   }
 }
 .back {
@@ -467,6 +474,7 @@ a.glowlink {
 .glowlink:hover h2 {
     color: #fff;
     text-shadow: 0 0 15px #000;
+    cursor: help;
 }
 
 @keyframes bounce {0% {
