@@ -113,13 +113,13 @@ blockquote {
 
 .logo {
   text-align: center;
+	width: 35%;
+    	max-width: 1000px;
   a {
     background: #f8f8f8;
     color: #f8f8f8;
     text-decoration: none;
     font-weight: 700;
-    width: 35%;
-    max-width: 1000px;
     font-size: 1.5em;
     border-radius: 100%;
     display: inline-block;
