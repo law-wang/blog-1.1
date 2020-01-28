@@ -141,10 +141,10 @@ blockquote {
         display: none !important;
       }
     }
-    @media (max-width : 700px) {
-      width: 300px;
-    }
   }
+@media (max-width : 700px) {
+width: 300px;
+    }
 }
 iframe {
   margin: 45px 0 !important;
