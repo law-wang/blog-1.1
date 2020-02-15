@@ -13,9 +13,9 @@ html {
 }
 
 body {
-  width: 100%;
+  width: 90%;
   padding-top: 10%;
-  margin: 0;
+  margin: auto;
   font-family: nimbus-sans, "Helvetica Neue", "Helvetica", "Franklin Gothic", "Arial", sans-serif;
     font-style: normal;
 	   font-weight: 500;
@@ -366,6 +366,7 @@ article {
 }
 
 section {
+  width: 100%;
   max-width: 500px;
   margin: 0 auto 50px auto;
   ul {
